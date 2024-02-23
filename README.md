@@ -39,7 +39,7 @@
 
 ###
   <a href="https://github.com/tthn0/Spotify-Readme">
-  <img allign="left" width="50%" src="https://spotify-readme-leo-ver.vercel.app/api?theme=dark" alt="Current Spotify Song">
+  <img allign="left" width="50%" src="http://spotify-readme-liard.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
   
 </div>
