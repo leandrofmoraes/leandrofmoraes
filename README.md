@@ -2,6 +2,8 @@
   
 - 🕵️‍♂️ I’m currently looking for a job
 - 👨‍🎓 I’m currently a university student
+- 📚 I'm Studying Computer Engineering and Computer Programming.
+- 🖥️ I love learning how computers work and everything I can do with them.
 - 🌎 I'm Brazilian
 - 🎮 My favorite games are: Dark Souls series, Doom and Magic The Gathering
 
@@ -37,24 +39,9 @@
   <a href="https://open.spotify.com/user/12162453917?si=R4X_l0rmQP-axod2liF6eQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/leofmetal" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-###
+### 🎵 Listening now
   <a href="https://github.com/tthn0/Spotify-Readme">
   <img allign="left" width="50%" src="http://spotify-readme-liard.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
   
 </div>
-
-<!--
-**leandrofmoraes/leandrofmoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
