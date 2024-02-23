@@ -37,10 +37,9 @@
   <a href="https://open.spotify.com/user/12162453917?si=R4X_l0rmQP-axod2liF6eQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/leofmetal" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-<!--
 ###
   <a href="https://github.com/tthn0/Spotify-Readme">
-  <img allign="left" width="50%" src="https://spotify-readme-rho-one.vercel.app/api?theme=dark" alt="Current Spotify Song">
+  <img allign="left" width="50%" src="https://spotify-readme-leo-ver.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
   
 </div>
