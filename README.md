@@ -12,7 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leandrofmoraes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="120" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrofmoraes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
-  
+
+### 🖥️ Languages and Tools
 <div style="display: inline_block"><br>
   <img align="center"alt="Java-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />  
   <img align="center"alt="Spring-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
